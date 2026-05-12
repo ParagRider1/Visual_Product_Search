@@ -1,0 +1,7 @@
+fig_clip_embedding_output.png - Terminal output showing successful CLIP embedding generation and normalized feature vector dimensions.
+
+fig_clip_similarity_output.png - Terminal output showing cosine similarity computation between normalized CLIP embeddings extracted from DeepFashion product images.
+
+fig_first_retrieval_results.png - Initial brute-force retrieval results obtained using cosine similarity between CLIP image embeddings.
+
+fig_blip_caption_output.png - Terminal output showing automatic product caption generation using the BLIP image captioning model on DeepFashion images.

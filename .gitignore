@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+
+data/
+embeddings/
+indexes/
+models/
+
+.streamlit/
+
+*.pt
+*.pth
+*.npy
+*.index

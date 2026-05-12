@@ -1,0 +1,5 @@
+fig_yolo_detection_output.png - YOLOv8-based object localization on a DeepFashion image prior to retrieval preprocessing.
+
+fig_yolo_cropped_output.png - YOLO-based cropped product region extracted from a DeepFashion image for retrieval-oriented preprocessing.
+
+fig_visual_retrieval_results.png - Qualitative top-K retrieval visualization generated using cosine similarity between CLIP image embeddings on the DeepFashion dataset.
